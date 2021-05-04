@@ -2,7 +2,7 @@
 
 PyTorch implementation of our action candidate based clipped double estimator (AC-CDE), action candidate based clipped Double Q-learning (AC-CDQ), action candidate based clipped Double DQN (AC-CDDQN) and action candidate based TD3 (AC-TD3).
 
-Paper link [arXiv](https://arxiv.org/submit/3726215/view).
+Paper link [arXiv](https://arxiv.org/pdf/2105.00704.pdf).
 
 ### Usage
 
